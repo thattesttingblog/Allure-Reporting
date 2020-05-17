@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7523" started-at="2020-05-17T20:03:46Z" finished-at="2020-05-17T20:03:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7523" started-at="2020-05-17T20:03:46Z" finished-at="2020-05-17T20:03:53Z">
+      <class name="AllureReports.sampleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:AllureReports.sampleTest@37918c79]" name="setup" is-config="true" duration-ms="5640" started-at="2020-05-17T20:03:46Z" finished-at="2020-05-17T20:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="screenshotCompletePage()[pri:0, instance:AllureReports.sampleTest@37918c79]" name="screenshotCompletePage" duration-ms="633" started-at="2020-05-17T20:03:51Z" description="screenshot of complete webpage" finished-at="2020-05-17T20:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotCompletePage -->
+        <test-method status="PASS" signature="screenshotOfElement()[pri:0, instance:AllureReports.sampleTest@37918c79]" name="screenshotOfElement" duration-ms="326" started-at="2020-05-17T20:03:52Z" description="screenshot of a element" finished-at="2020-05-17T20:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOfElement -->
+        <test-method status="PASS" signature="screenshotOfSection()[pri:0, instance:AllureReports.sampleTest@37918c79]" name="screenshotOfSection" duration-ms="526" started-at="2020-05-17T20:03:52Z" description="screenshot of a section" finished-at="2020-05-17T20:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotOfSection -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:AllureReports.sampleTest@37918c79]" name="teardown" is-config="true" duration-ms="174" started-at="2020-05-17T20:03:53Z" finished-at="2020-05-17T20:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- AllureReports.sampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
